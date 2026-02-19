@@ -1,4 +1,4 @@
-# 📦 Packets and Frames
+#  Packets and Frames
 
 Packets and frames are small units of data used for communication.
 
@@ -6,7 +6,7 @@ They are related but operate at different OSI layers.
 
 ---
 
-# 📌 Packet (Layer 3 - Network Layer)
+#  Packet (Layer 3 - Network Layer)
 
 A packet exists at Layer 3.
 
@@ -21,7 +21,7 @@ Whenever we talk about routing or IP addressing, we are referring to packets.
 
 ---
 
-# 📌 Frame (Layer 2 - Data Link Layer)
+#  Frame (Layer 2 - Data Link Layer)
 
 A frame exists at Layer 2.
 
@@ -35,7 +35,7 @@ Frames handle physical delivery within a LAN.
 
 ---
 
-# 🔁 Encapsulation Analogy
+#  Encapsulation Analogy
 
 Think of sending a letter:
 
@@ -48,7 +48,7 @@ Removing the envelope at destination is called **de-encapsulation**.
 
 ---
 
-# ⭐ Why Packets are Used
+#  Why Packets are Used
 
 Packets allow data to be transmitted in small pieces instead of one large block.
 
@@ -63,7 +63,7 @@ A website image loads using multiple packets that get reassembled.
 
 ---
 
-# 🧾 IP Packet Header Fields
+#  IP Packet Header Fields
 
 Important IP header fields include:
 
@@ -84,7 +84,7 @@ Important IP header fields include:
 
 ---
 
-# 🔑 Key Difference
+#  Key Difference
 
 - Packet = Logical delivery using IP (Layer 3)
 - Frame = Physical delivery using MAC (Layer 2)
