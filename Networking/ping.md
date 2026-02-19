@@ -1,4 +1,4 @@
-# 📡 Introduction to Ping
+#  Introduction to Ping
 
 Ping is one of the most basic and important network diagnostic tools.  
 It is used to test connectivity between two devices on a network.
@@ -12,7 +12,7 @@ Ping works by sending special network messages called **ICMP (Internet Control M
 
 ---
 
-## ⚙️ How Ping Works
+##  How Ping Works
 
 When you run the `ping` command:
 
@@ -24,7 +24,7 @@ This time measurement is called **latency**.
 
 ---
 
-## 📌 What Ping Provides
+##  What Ping Provides
 
 Ping gives useful information such as:
 
@@ -35,7 +35,7 @@ Ping gives useful information such as:
 
 ---
 
-## 📊 Example of Ping Output
+##  Example of Ping Output
 
 If you ping a private IP address like:
 192.168.1.254
@@ -52,7 +52,7 @@ If all packets are received with low response time, the connection is stable.
 
 ---
 
-## 🖥 Using the Ping Command
+##  Using the Ping Command
 
 Ping is built into most operating systems, including:
 
