@@ -25,7 +25,7 @@ Firewalls can be:
 
 ---
 
-# 🔥 Stateful Firewall
+#  Stateful Firewall
 
 ### Description
 Stateful firewalls track full connections instead of single packets.
