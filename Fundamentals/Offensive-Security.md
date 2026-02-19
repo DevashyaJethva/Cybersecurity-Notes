@@ -1,4 +1,4 @@
-# 🔥 Offensive Security
+# Offensive Security
 
 > **"To outsmart a hacker, you need to think like one."**
 
@@ -10,7 +10,7 @@ This approach involves thinking like a hacker, but working ethically and legally
 
 ---
 
-## 🎯 Objectives of Offensive Security
+##  Objectives of Offensive Security
 
 The main objectives include:
 
@@ -22,7 +22,7 @@ The main objectives include:
 
 ---
 
-## 🛠 Key Activities in Offensive Security
+##  Key Activities in Offensive Security
 
 ### 1) Ethical Hacking
 Authorized attempts to gain access to systems in order to find weaknesses.
@@ -38,7 +38,7 @@ Scanning and identifying known security flaws.
 
 ---
 
-## 🔁 Process of Offensive Security
+##  Process of Offensive Security
 
 Offensive security generally follows these steps:
 
@@ -59,7 +59,7 @@ Offensive security generally follows these steps:
 
 ---
 
-## ⭐ Importance of Offensive Security
+##  Importance of Offensive Security
 
 Cyber threats are constantly evolving, and attackers are becoming more advanced. Defensive security measures alone are not always sufficient.
 
