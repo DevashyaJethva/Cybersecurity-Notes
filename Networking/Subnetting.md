@@ -33,7 +33,7 @@ Subnetting allows network administrators to logically separate departments withi
 
 ---
 
-# ⚙️ How Subnetting Works
+#  How Subnetting Works
 
 Subnetting is achieved using a value called a **Subnet Mask**.
 
