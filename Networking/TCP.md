@@ -1,4 +1,4 @@
-# 🔗 TCP (Transmission Control Protocol)
+#  TCP (Transmission Control Protocol)
 
 TCP is a Transport layer protocol designed for reliability and accuracy.
 
@@ -6,7 +6,7 @@ It establishes a stable connection between two devices before data transfer.
 
 ---
 
-# ⭐ Key Features
+#  Key Features
 
 - connection-oriented
 - error checking
@@ -16,19 +16,19 @@ It establishes a stable connection between two devices before data transfer.
 
 ---
 
-# ✅ Advantages
+#  Advantages
 - accurate delivery
 - error correction
 - ensures correct order
 
-# ❌ Disadvantages
+#  Disadvantages
 - slower than UDP
 - requires stable connection
 - retransmission delays communication
 
 ---
 
-# 📌 Where TCP is Used
+#  Where TCP is Used
 
 TCP is commonly used in:
 
