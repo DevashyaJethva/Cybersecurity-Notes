@@ -1,4 +1,4 @@
-# 🔒 VPN (Virtual Private Network)
+#  VPN (Virtual Private Network)
 
 A VPN is a technology that allows devices on different networks to communicate securely over the Internet.
 
@@ -8,7 +8,7 @@ Devices connected through VPN form a private network, even though communication 
 
 ---
 
-# 🧾 Example Scenario
+#  Example Scenario
 
 Imagine three networks:
 
@@ -25,7 +25,7 @@ With VPN:
 
 ---
 
-# ⭐ Benefits of VPN
+#  Benefits of VPN
 
 | Benefit | Description |
 |--------|------------|
@@ -33,11 +33,11 @@ With VPN:
 | Privacy | Data is encrypted, safer on public Wi-Fi |
 | Anonymity | Hides activity from ISP/intermediaries |
 
-⚠️ VPN anonymity depends on the provider. If provider logs traffic, privacy reduces.
+ VPN anonymity depends on the provider. If provider logs traffic, privacy reduces.
 
 ---
 
-# 🧪 VPN in Cybersecurity Labs
+#  VPN in Cybersecurity Labs
 
 Platforms like TryHackMe use VPN so users can:
 
@@ -47,32 +47,32 @@ Platforms like TryHackMe use VPN so users can:
 
 ---
 
-# 🧾 Common VPN Technologies
+#  Common VPN Technologies
 
 ---
 
-## 1️⃣ PPP (Point-to-Point Protocol)
+## 1️ PPP (Point-to-Point Protocol)
 - provides authentication and encryption
 - uses private keys and certificates
 - cannot leave network alone (non-routable)
 
 ---
 
-## 2️⃣ PPTP (Point-to-Point Tunneling Protocol)
+## 2️ PPTP (Point-to-Point Tunneling Protocol)
 - carries PPP over networks
 - easy setup
 - weak encryption
 
 ---
 
-## 3️⃣ IPSec (Internet Protocol Security)
+## 3️ IPSec (Internet Protocol Security)
 - strong encryption
 - widely supported
 - more complex configuration
 
 ---
 
-# 📊 Quick Comparison
+#  Quick Comparison
 
 | Technology | Security | Setup Difficulty |
 |----------|----------|----------------|
@@ -82,6 +82,6 @@ Platforms like TryHackMe use VPN so users can:
 
 ---
 
-# ✅ Short Definition
+#  Short Definition
 
 A VPN is a technology that creates an encrypted tunnel over the Internet, allowing devices to communicate as if they are on the same private network.
