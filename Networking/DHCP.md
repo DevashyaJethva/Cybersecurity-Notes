@@ -1,4 +1,4 @@
-# 📌 DHCP (Dynamic Host Configuration Protocol)
+#  DHCP (Dynamic Host Configuration Protocol)
 
 IP addresses can be assigned in two ways:
 
@@ -11,7 +11,7 @@ This reduces manual configuration errors and simplifies network management.
 
 ---
 
-# 🎯 Purpose of DHCP
+#  Purpose of DHCP
 
 DHCP is used to provide:
 
@@ -24,20 +24,20 @@ It is used in home, school, and enterprise networks.
 
 ---
 
-# 🔁 How DHCP Works (DORA Process)
+#  How DHCP Works (DORA Process)
 
 DHCP uses a four-step process called **DORA**:
 
 ---
 
-## 1️⃣ DHCP Discover
+## 1️ DHCP Discover
 A device broadcasts a request asking:
 
 **"Is there any DHCP server?"**
 
 ---
 
-## 2️⃣ DHCP Offer
+## 2️ DHCP Offer
 The DHCP server replies with an offer containing:
 
 - available IP address
@@ -45,19 +45,19 @@ The DHCP server replies with an offer containing:
 
 ---
 
-## 3️⃣ DHCP Request
+## 3️ DHCP Request
 The device requests the offered IP address.
 
 ---
 
-## 4️⃣ DHCP ACK (Acknowledgement)
+## 4️ DHCP ACK (Acknowledgement)
 The server confirms the IP assignment.
 
 The device can now use the IP.
 
 ---
 
-# ⭐ Importance of DHCP
+#  Importance of DHCP
 
 DHCP is important because:
 
