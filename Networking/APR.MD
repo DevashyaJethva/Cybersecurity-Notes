@@ -1,4 +1,4 @@
-# 🔁 ARP (Address Resolution Protocol)
+# ARP (Address Resolution Protocol)
 
 Devices on a network have two main identifiers:
 
@@ -13,7 +13,7 @@ Without ARP, devices would know the destination IP but would not know the MAC ad
 
 ---
 
-# 🎯 Purpose of ARP
+#  Purpose of ARP
 
 ARP enables communication inside a LAN by:
 
@@ -25,7 +25,7 @@ Each device stores mappings in an **ARP cache**.
 
 ---
 
-# 🗂 What is an ARP Cache?
+#  What is an ARP Cache?
 
 An ARP cache is a temporary table stored on a device.
 
@@ -38,13 +38,13 @@ This reduces repeated ARP requests and improves efficiency.
 
 ---
 
-# ⚙️ How ARP Works
+#  How ARP Works
 
 ARP uses two message types:
 
 ---
 
-## 1️⃣ ARP Request
+## 1️ ARP Request
 
 - Sent as a broadcast to all devices
 - Message:
@@ -52,14 +52,14 @@ ARP uses two message types:
 
 ---
 
-## 2️⃣ ARP Reply
+## 2️ ARP Reply
 
 - Only the device with that IP responds
 - Sends its MAC address directly back
 
 ---
 
-# 🧾 Step-by-Step ARP Process
+#  Step-by-Step ARP Process
 
 1. Device A wants to send data to Device B.
 2. Device A knows Device B’s IP but not its MAC.
@@ -70,7 +70,7 @@ ARP uses two message types:
 
 ---
 
-# ⭐ Importance of ARP
+#  Importance of ARP
 
 ARP is essential because:
 
