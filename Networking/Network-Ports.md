@@ -29,7 +29,7 @@ Example:
 
 ---
 
-# 🏷 Common Well-Known Ports (0–1024)
+#  Common Well-Known Ports (0–1024)
 
 | Protocol | Port |
 |---------|------|
