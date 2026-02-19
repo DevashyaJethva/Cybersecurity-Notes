@@ -1,4 +1,4 @@
-# ⚡ UDP (User Datagram Protocol)
+#  UDP (User Datagram Protocol)
 
 UDP is a Transport layer protocol designed for speed.
 
@@ -13,7 +13,7 @@ There is:
 
 ---
 
-# ⭐ Characteristics
+#  Characteristics
 
 - connectionless communication
 - minimal overhead
@@ -21,19 +21,19 @@ There is:
 
 ---
 
-# ✅ Advantages
+# Advantages
 - faster than TCP
 - no connection setup
 - lower processing load
 
-# ❌ Disadvantages
+#  Disadvantages
 - no delivery guarantee
 - no error correction
 - packets may arrive out of order
 
 ---
 
-# 📌 Where UDP is Used
+#  Where UDP is Used
 
 UDP is used when speed matters more than accuracy:
 
