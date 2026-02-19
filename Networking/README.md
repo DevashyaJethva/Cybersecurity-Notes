@@ -1,11 +1,11 @@
-# 🌐 Networking Notes
+#  Networking Notes
 
 Welcome to my Networking Notes repository section 🚀  
 These notes cover the fundamentals of networking concepts required for cybersecurity.
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
 - Ping (ICMP)
 - Network Topologies (Star, Bus, Ring)
@@ -26,13 +26,13 @@ These notes cover the fundamentals of networking concepts required for cybersecu
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To build strong networking fundamentals for penetration testing, red teaming, and cybersecurity.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 These notes are for educational purposes only.
 
