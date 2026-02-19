@@ -1,8 +1,8 @@
-# 🔀 Router vs Switch
+#  Router vs Switch
 
 ---
 
-# 🌍 Router
+#  Router
 
 A router connects multiple networks and forwards packets between them.
 
@@ -37,7 +37,7 @@ Routers usually provide:
 
 ---
 
-# 🔀 Switch
+#  Switch
 
 A switch connects multiple devices inside the same network.
 
@@ -65,7 +65,7 @@ Layer 3 switches can:
 
 ---
 
-# 📊 Router vs Switch Comparison
+#  Router vs Switch Comparison
 
 | Feature | Router | Switch |
 |--------|--------|--------|
@@ -77,7 +77,7 @@ Layer 3 switches can:
 
 ---
 
-# ✅ Short Summary
+# Short Summary
 
 - Router connects different networks using IP.
 - Switch connects devices inside the same network using MAC.
