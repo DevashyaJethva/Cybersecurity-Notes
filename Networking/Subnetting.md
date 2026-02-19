@@ -1,4 +1,4 @@
-# 🧮 Subnetting
+#  Subnetting
 
 Networks come in different shapes and sizes, from small home setups to large corporate infrastructures.
 
@@ -8,7 +8,7 @@ As networks grow, managing them efficiently becomes more complex.
 
 ---
 
-## 🎂 Simple Analogy
+##  Simple Analogy
 
 Subnetting is like dividing a cake among friends.
 
@@ -19,7 +19,7 @@ Similarly, there is a limited number of IP addresses, and subnetting helps alloc
 
 ---
 
-# ❓ Why Subnetting is Needed
+#  Why Subnetting is Needed
 
 In organizations, different departments exist such as:
 
@@ -51,13 +51,13 @@ The subnet mask determines:
 
 ---
 
-# 🔑 Key Components of a Subnet
+#  Key Components of a Subnet
 
 Each subnet uses IP addresses in three important ways:
 
 ---
 
-## 1️⃣ Network Address
+## 1️ Network Address
 
 - Identifies the start of the network
 - Represents the subnet itself
@@ -65,7 +65,7 @@ Each subnet uses IP addresses in three important ways:
 
 ---
 
-## 2️⃣ Host Address
+## 2️ Host Address
 
 - Assigned to devices in the subnet
 - Identifies a specific device
@@ -75,7 +75,7 @@ Example:192.168.1.100
 
 ---
 
-## 3️⃣ Default Gateway
+## 3️ Default Gateway
 
 A default gateway is:
 
@@ -91,7 +91,7 @@ Usually uses:
 
 ---
 
-# 🏠 Subnetting in Small vs Large Networks
+#  Subnetting in Small vs Large Networks
 
 In home networks, subnetting is rarely noticeable because fewer than 254 devices exist.
 
@@ -105,22 +105,22 @@ However, in large organizations like offices or universities, subnetting is esse
 
 ---
 
-# ⭐ Benefits of Subnetting
+#  Benefits of Subnetting
 
 Subnetting provides:
 
-### ✅ Efficiency
+###  Efficiency
 Reduces unnecessary network traffic.
 
-### 🔒 Security
+###  Security
 Separates sensitive systems from less secure networks.
 
-### 🎛 Control
+###  Control
 Allows better management and organization.
 
 ---
 
-# 🌍 Real-World Example
+#  Real-World Example
 
 A café may have:
 
