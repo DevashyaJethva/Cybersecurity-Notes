@@ -1,4 +1,4 @@
-# 🛡 Firewall
+#  Firewall
 
 A firewall is a network security device that controls what traffic is allowed to enter or leave a network.
 
@@ -15,7 +15,7 @@ Firewalls use packet inspection to filter traffic.
 
 ---
 
-# 🧱 Types of Firewalls
+#  Types of Firewalls
 
 Firewalls can be:
 
@@ -41,7 +41,7 @@ Stateful firewalls track full connections instead of single packets.
 
 ---
 
-# ⚡ Stateless Firewall
+#  Stateless Firewall
 
 ### Description
 Stateless firewalls check each packet individually.
@@ -56,7 +56,7 @@ Stateless firewalls check each packet individually.
 
 ---
 
-# 📊 Stateful vs Stateless Comparison
+#  Stateful vs Stateless Comparison
 
 | Feature | Stateful | Stateless |
 |--------|----------|----------|
@@ -67,6 +67,6 @@ Stateless firewalls check each packet individually.
 
 ---
 
-# ✅ Short Definition
+#  Short Definition
 
 A firewall is a network security device that monitors and controls incoming and outgoing traffic using predefined rules. It may operate in stateful or stateless mode.
