@@ -1,4 +1,4 @@
-# 📘 Network Basics
+#  Network Basics
 
 Networking is one of the most important foundations of cybersecurity.  
 Before learning hacking, penetration testing, or security tools, it is necessary to understand how networks work.
@@ -7,7 +7,7 @@ A **computer network** is a group of devices connected together to share data, r
 
 ---
 
-## 🌐 What is a Network?
+##  What is a Network?
 
 A **network** is a system that connects multiple devices so they can communicate and exchange data.
 
@@ -23,7 +23,7 @@ Devices in a network can include:
 
 ---
 
-## 🔑 Why Networking is Important?
+##  Why Networking is Important?
 
 Networking is important because it allows:
 
@@ -42,11 +42,11 @@ In cybersecurity, understanding networking helps in:
 
 ---
 
-## 🧩 Types of Networks
+## Types of Networks
 
 Networks are categorized based on their size and range.
 
-### 1️⃣ LAN (Local Area Network)
+### 1️ LAN (Local Area Network)
 
 A **LAN** connects devices in a small area such as:
 
@@ -58,7 +58,7 @@ Example: A Wi-Fi network in your house.
 
 ---
 
-### 2️⃣ MAN (Metropolitan Area Network)
+### 2️ MAN (Metropolitan Area Network)
 
 A **MAN** covers a larger area such as:
 
@@ -69,7 +69,7 @@ Example: Internet connection provided across a city by an ISP.
 
 ---
 
-### 3️⃣ WAN (Wide Area Network)
+### 3️ WAN (Wide Area Network)
 
 A **WAN** connects networks across countries or continents.
 
@@ -77,28 +77,28 @@ Example: The Internet is the biggest WAN.
 
 ---
 
-## 🌍 Internet vs Intranet
+##  Internet vs Intranet
 
-### 🌐 Internet
+###  Internet
 The **Internet** is a global network that connects millions of devices worldwide.
 
-### 🏢 Intranet
+###  Intranet
 An **Intranet** is a private internal network used within an organization.
 
 Example: College network, company network.
 
 ---
 
-## 🧠 Important Networking Terms
+##  Important Networking Terms
 
-### 📌 IP Address
+###  IP Address
 An **IP Address** is a unique logical address assigned to a device on a network.
 
 Example:
 192.168.1.10
 
 
-### 📌 MAC Address
+### MAC Address
 
 A MAC Address is a physical address assigned to a device’s Network Interface Card (NIC).
 Example:
