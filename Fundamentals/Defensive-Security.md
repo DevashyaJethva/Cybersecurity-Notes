@@ -1,4 +1,4 @@
-# 🛡 Defensive Security
+#  Defensive Security
 
 Defensive Security is a protective approach to cybersecurity that focuses on preventing, detecting, and responding to cyber threats.
 
@@ -10,7 +10,7 @@ The primary goal of defensive security is to ensure the **Confidentiality, Integ
 
 ---
 
-## 🎯 Objectives of Defensive Security
+##  Objectives of Defensive Security
 
 The main objectives include:
 
@@ -23,29 +23,29 @@ The main objectives include:
 
 ---
 
-## 🛠 Key Activities in Defensive Security
+##  Key Activities in Defensive Security
 
-### 🔍 Network Monitoring
+###  Network Monitoring
 Continuously observing network traffic to detect unusual or malicious behavior.
 
-### 🧱 Firewall Management
+###  Firewall Management
 Configuring and managing firewalls to control incoming and outgoing network traffic.
 
-### 🚨 Intrusion Detection and Prevention
+### Intrusion Detection and Prevention
 Identifying and blocking suspicious activities within systems.
 
-### 🔄 Patch Management
+###  Patch Management
 Regularly updating software to fix security vulnerabilities.
 
-### 🔐 Access Control Management
+###  Access Control Management
 Ensuring that only authorized users can access specific systems or data.
 
-### 🧯 Incident Response
+###  Incident Response
 Taking immediate action to contain and recover from security breaches.
 
 ---
 
-## 🔁 Process of Defensive Security
+##  Process of Defensive Security
 
 Defensive security generally follows these steps:
 
@@ -69,7 +69,7 @@ Defensive security generally follows these steps:
 
 ---
 
-## ⭐ Importance of Defensive Security
+##  Importance of Defensive Security
 
 Cyber threats are increasing in complexity and frequency. Defensive security is essential for protecting organizational assets and ensuring smooth business operations.
 
