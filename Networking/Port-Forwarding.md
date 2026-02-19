@@ -1,4 +1,4 @@
-# 🔀 Port Forwarding
+#  Port Forwarding
 
 Port forwarding is a networking technique that allows devices outside a private network (Internet) to access services inside a private network.
 
@@ -12,7 +12,7 @@ Examples:
 
 ---
 
-# 🧾 How It Works (Without Port Forwarding)
+#  How It Works (Without Port Forwarding)
 
 Example:
 
@@ -25,7 +25,7 @@ Internet users cannot because private IPs are not reachable externally.
 
 ---
 
-# 🌍 How It Works (With Port Forwarding)
+#  How It Works (With Port Forwarding)
 
 Example:
 
@@ -43,7 +43,7 @@ Now internet users can access the server.
 
 ---
 
-# 🔥 Port Forwarding vs Firewall
+#  Port Forwarding vs Firewall
 
 Many people confuse these.
 
@@ -55,7 +55,7 @@ Many people confuse these.
 
 ---
 
-# 📌 Where Port Forwarding is Configured?
+#  Where Port Forwarding is Configured?
 
 Port forwarding is configured on the router.
 
@@ -66,6 +66,6 @@ The router:
 
 ---
 
-# ✅ Short Definition
+#  Short Definition
 
 Port forwarding is a router configuration that allows external devices to access services on an internal private IP by forwarding traffic from a public IP and port to a private IP and port.
