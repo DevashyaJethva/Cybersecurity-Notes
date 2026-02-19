@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Notes Repository
+# Cybersecurity Notes Repository
 
 Welcome to my **Cybersecurity Notes Repository** 📚🚀  
 This repository contains my personal notes while learning **Cybersecurity**, from beginner to advanced level.
@@ -7,7 +7,7 @@ These notes are written in a simple and structured way for revision and understa
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository includes:
 
@@ -20,7 +20,7 @@ This repository includes:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```bash
 Cybersecurity-Notes/
