@@ -1,8 +1,8 @@
-# 📚 OSI Layers Explanation
+#  OSI Layers Explanation
 
 ---
 
-# 🟤 Layer 1: Physical Layer
+#  Layer 1: Physical Layer
 
 The Physical Layer is the lowest OSI layer.
 
@@ -22,7 +22,7 @@ It deals with physical hardware used for transmitting raw bits (1s and 0s).
 
 ---
 
-# 🔵 Layer 2: Data Link Layer
+#  Layer 2: Data Link Layer
 
 The Data Link Layer handles:
 
@@ -42,7 +42,7 @@ The Data Link Layer handles:
 
 ---
 
-# 🟢 Layer 3: Network Layer
+#  Layer 3: Network Layer
 
 Responsible for:
 
@@ -66,7 +66,7 @@ Layer 3 devices:
 
 ---
 
-# 🟠 Layer 4: Transport Layer
+# Layer 4: Transport Layer
 
 Handles data delivery between devices using:
 
@@ -78,7 +78,7 @@ UDP = fast
 
 ---
 
-# 🟣 Layer 5: Session Layer
+#  Layer 5: Session Layer
 
 Responsible for:
 
@@ -90,7 +90,7 @@ Uses checkpoints to recover lost data efficiently.
 
 ---
 
-# 🟡 Layer 6: Presentation Layer
+#  Layer 6: Presentation Layer
 
 Responsible for:
 
@@ -103,7 +103,7 @@ Ensures compatibility between different systems.
 
 ---
 
-# 🔴 Layer 7: Application Layer
+#  Layer 7: Application Layer
 
 Top layer used by users.
 
