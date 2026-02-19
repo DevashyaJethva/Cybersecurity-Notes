@@ -1,4 +1,4 @@
-# 🚪 Network Ports
+#  Network Ports
 
 Ports are communication endpoints in networking.
 
@@ -8,7 +8,7 @@ Ports ensure that traffic reaches the correct application.
 
 ---
 
-# 📌 What is a Port?
+#  What is a Port?
 
 A port is a number between:
 0 to 65535
@@ -19,7 +19,7 @@ If the port does not match, communication fails.
 
 ---
 
-# ⭐ Why Ports Are Important
+#  Why Ports Are Important
 
 Without port standardization, networking would become chaotic.
 
@@ -42,7 +42,7 @@ Example:
 
 ---
 
-# ⚠️ Important Note
+#  Important Note
 
 Applications can use non-standard ports.
 
@@ -54,7 +54,7 @@ To access it:http://example.com:8080/
 
 ---
 
-# ⭐ Key Point
+#  Key Point
 
 Ports are gateways that ensure traffic reaches the correct application.
 
