@@ -1,6 +1,6 @@
 #  Networking Notes
 
-Welcome to my Networking Notes repository section 🚀  
+Welcome to my Networking Notes repository section 
 These notes cover the fundamentals of networking concepts required for cybersecurity.
 
 ---
