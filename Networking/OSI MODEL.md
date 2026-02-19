@@ -1,4 +1,4 @@
-# 🧱 OSI Model (Open Systems Interconnection Model)
+#  OSI Model (Open Systems Interconnection Model)
 
 The OSI Model is a fundamental networking framework that defines how data is transmitted and received across a network.
 
@@ -6,7 +6,7 @@ It provides a standardized structure so different devices and technologies can c
 
 ---
 
-# 🎯 Purpose of OSI Model
+#  Purpose of OSI Model
 
 The OSI model provides:
 
@@ -17,7 +17,7 @@ The OSI model provides:
 
 ---
 
-# 🏗 Structure of OSI Model
+#  Structure of OSI Model
 
 The OSI model has **7 layers**:
 
@@ -33,7 +33,7 @@ The OSI model has **7 layers**:
 
 ---
 
-# 📦 Encapsulation Process
+#  Encapsulation Process
 
 As data moves from Layer 7 down to Layer 1, each layer adds its own header information.  
 This process is called **encapsulation**.
@@ -43,7 +43,7 @@ This is called **de-encapsulation**.
 
 ---
 
-# ⭐ Importance of OSI Model
+#  Importance of OSI Model
 
 OSI is important because:
 
