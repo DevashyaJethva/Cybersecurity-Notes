@@ -4,7 +4,7 @@ Networking devices help connect systems, manage traffic, and enable communicatio
 
 ---
 
-# 🔀 Switch
+#  Switch
 
 A **switch** is a networking device that connects multiple devices within a LAN using Ethernet cables.
 
@@ -26,7 +26,7 @@ Switches commonly have:
 
 ---
 
-## ⭐ Why Switches Are Efficient
+##  Why Switches Are Efficient
 
 Unlike hubs, switches send data only to the intended device instead of broadcasting it to all devices.
 
@@ -34,7 +34,7 @@ This reduces network traffic and improves performance.
 
 ---
 
-## 🔁 Redundancy with Switches
+##  Redundancy with Switches
 
 Multiple switches can be connected together for reliability.
 
@@ -42,7 +42,7 @@ If one path fails, another path can carry the traffic, reducing downtime.
 
 ---
 
-# 🌍 Router
+#  Router
 
 A **router** connects different networks together and directs traffic between them.
 
@@ -51,7 +51,7 @@ Example:
 
 ---
 
-## 🚦 What is Routing?
+##  What is Routing?
 
 Routing is the process of determining the best path for data to travel from one network to another.
 
@@ -59,7 +59,7 @@ Routers analyze network information and forward data along the most efficient ro
 
 ---
 
-## ⭐ Importance of Routers
+##  Importance of Routers
 
 Routers are used to:
 
